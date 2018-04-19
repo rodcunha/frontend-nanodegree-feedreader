@@ -16,7 +16,11 @@ For the project we have used the [Jasmine testing framework](https://jasmine.git
 
 ## How to run the application
 
-Just follow [this link](http://rodcunha.github.com/feedreader)
+You will need to clone or download the application to your local system. Once you have done this run the index.html file locally and you should see the news feeds appear.
+
+From the menu, select the feed source you would like to read.
+
+Enjoy your reading! :)
 
 ## Further Development
 
